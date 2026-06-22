@@ -1,0 +1,14 @@
+[
+    {
+        "id_hero": 1,
+        "nama_hero": "Miya",
+        "role": "Marksman",
+        "lane": "Gold"
+    },
+    {
+        "id_hero": 2,
+        "nama_hero": "Tigreal",
+        "role": "Tank",
+        "lane": "Roam"
+    }
+]
