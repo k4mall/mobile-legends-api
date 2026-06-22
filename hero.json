@@ -3,70 +3,60 @@
     "id_hero": 1,
     "nama_hero": "Miya",
     "role": "Marksman",
-    "lane": "Gold",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Miya.jpg"
+    "lane": "Gold"
   },
   {
     "id_hero": 2,
     "nama_hero": "Tigreal",
     "role": "Tank",
-    "lane": "Roam",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Tigreal.jpg"
+    "lane": "Roam"
   },
   {
     "id_hero": 3,
     "nama_hero": "Alucard",
     "role": "Fighter",
-    "lane": "Jungle",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Alucard.jpg"
+    "lane": "Jungle"
   },
   {
     "id_hero": 4,
     "nama_hero": "Saber",
     "role": "Assassin",
-    "lane": "Jungle",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Saber.jpg"
+    "lane": "Jungle"
   },
   {
     "id_hero": 5,
     "nama_hero": "Eudora",
     "role": "Mage",
-    "lane": "Mid",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Eudora.jpg"
+    "lane": "Mid"
   },
   {
     "id_hero": 6,
     "nama_hero": "Lylia",
     "role": "Mage",
-    "lane": "Mid",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Lylia.jpg"
+    "lane": "Mid"
   },
   {
     "id_hero": 7,
     "nama_hero": "Yu Zhong",
     "role": "Fighter",
-    "lane": "EXP",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/YuZhong.jpg"
+    "lane": "EXP"
   },
   {
     "id_hero": 8,
     "nama_hero": "Estes",
     "role": "Support",
-    "lane": "Roam",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Estes.jpg"
+    "lane": "Roam"
   },
   {
     "id_hero": 9,
     "nama_hero": "Beatrix",
     "role": "Marksman",
-    "lane": "Gold",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Beatrix.jpg"
+    "lane": "Gold"
   },
   {
     "id_hero": 10,
     "nama_hero": "Fredrinn",
     "role": "Tank",
-    "lane": "Jungle",
-    "gambar": "https://cdn.oneesports.id/cdn-data/sites/2/2023/07/Fredrinn.jpg"
+    "lane": "Jungle"
   }
 ]
